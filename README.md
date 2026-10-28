@@ -2,7 +2,7 @@
 
 R in language research (linguistics), 2007 to 2009
 
-Automated mbox archive. Updated daily via GitHub Actions.
+This copy is kept as it was collected and is no longer updated. The list's whole history, 2007 to 2019, is in [gmane-archive](https://github.com/r-mailing-lists/gmane-archive/tree/main/r-lang), read from Gmane's news server, and that is the copy the R Mailing List Archives show. This repository holds what the list's first archive at UC San Diego still served in October 2026.
 
 ## Structure
 
