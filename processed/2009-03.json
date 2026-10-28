@@ -1,0 +1,55 @@
+{
+  "list": "r-lang",
+  "description": "",
+  "month": "2009-03",
+  "messages": [
+    {
+      "id": "msg-3d16a9fd595c",
+      "message_id": "<49AE3C01.4050105@mpi.nl>",
+      "from_name": "Laura de Ruiter",
+      "from_email_hash": "35629a4d9d9083fd459b86c39c4404db80ad4bec79252d1a9ce9e2021da56ea5",
+      "date": "2009-03-04T08:29:53Z",
+      "subject": "[R-lang] Boxplots from lmer-objects?",
+      "subject_clean": "[R-lang] Boxplots from lmer-objects?",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear R-users & experts,\n\nI was wondering whether there is any way to visualize the output of an \nlmer-object, or rather, the output of pvals.fnc?\nWhat I would like to do is have a boxplot that is based on the Estimate \n(or the MCMCmean) and the upper and lower bounds.\n\nThanks for your answers in advance!\n\nBest,\nLaura\n\n-- \n//////////////////////////////////////////////////////\n\nLaura de Ruiter\nPhD student\nLanguage Acquisition Group\nMax Planck Institute for Psycholinguistics\nP.O. Box 310\n6500 AH Nijmegen\nNetherlands\n\nPhone: 0031-24-3521 456\nHomepage: http://www.mpi.nl/Members/LauradeRuiter\n\n///////////////////////////////////////////////////",
+      "body_snippet": "Dear R-users & experts,\n\nI was wondering whether there is any way to visualize the output of an \nlmer-object, or rather, the output of pvals.fnc?\nWhat I would like to do is have a boxplot that is base",
+      "thread_id": "thread-3d16a9fd595c",
+      "thread_depth": 0,
+      "month": "2009-03"
+    },
+    {
+      "id": "msg-21ef2c586ca6",
+      "message_id": "<B3144A9D-199D-4695-9928-B5169DABE09F@uchicago.edu>",
+      "from_name": "James Kirby",
+      "from_email_hash": "3ea8dfa940e490c6f57f0ac959475185a603a1f350ad69da30fc276f2ab5537d",
+      "date": "2009-03-04T13:55:55Z",
+      "subject": "[R-lang] Boxplots from lmer-objects?",
+      "subject_clean": "[R-lang] Boxplots from lmer-objects?",
+      "in_reply_to": "<49AE3C01.4050105@mpi.nl>",
+      "references": [
+        "<49AE3C01.4050105@mpi.nl>"
+      ],
+      "body_plain": "On Mar 4, 2009, at 2:29 AM, Laura de Ruiter wrote:\n\n> I was wondering whether there is any way to visualize the output of  \n> an lmer-object, or rather, the output of pvals.fnc?\n\nplotLMER.fnc in package LanguageR will allow you to add MCMC-based HPD  \nintervals (from mcmcsamp or pvals.fnc$mcmc) to your plots.\n\nJames\n--\nDepartment of Linguistics\nUniversity of Chicago\nhttp://home.uchicago.edu/~jkirby",
+      "body_snippet": "On Mar 4, 2009, at 2:29 AM, Laura de Ruiter wrote:\n\n> I was wondering whether there is any way to visualize the output of  \n> an lmer-object, or rather, the output of pvals.fnc?\n\nplotLMER.fnc in packa",
+      "thread_id": "thread-3d16a9fd595c",
+      "thread_depth": 1,
+      "month": "2009-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-3d16a9fd595c",
+      "subject": "[R-lang] Boxplots from lmer-objects?",
+      "message_count": 2,
+      "participants": [
+        "James Kirby",
+        "Laura de Ruiter"
+      ],
+      "started": "2009-03-04T08:29:53Z",
+      "last_reply": "2009-03-04T13:55:55Z",
+      "root_message_id": "msg-3d16a9fd595c"
+    }
+  ]
+}
