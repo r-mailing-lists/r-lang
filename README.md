@@ -14,4 +14,4 @@ This copy is kept as it was collected and is no longer updated. The list's whole
 
 ## Viewer
 
-Browse these archives at [r-mailing-lists.thecoatlessprofessor.com](https://r-mailing-lists.thecoatlessprofessor.com/lists/r-lang/)
+Browse these archives at [archives.rstats.dev](https://archives.rstats.dev/lists/r-lang/)
